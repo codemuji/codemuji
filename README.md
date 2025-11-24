@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛠 I’m currently working on<br><br>Building full-stack MERN stack projects and scalable management systems.<br><br>🤝 I’m looking to collaborate on<br><br>Full-stack projects, intuitive UI components, and practical system design work.<br><br>🧠 I’m looking for help with<br><br>Advanced system architecture, backend optimization, and writing cleaner, scalable code.<br><br>🌱 I’m currently learning<br><br>MERN stack, full-stack system design, and building reusable UI components.<br><br>💬 Ask me about<br><br>Building management systems, designing functional UI, and teaching beginners how to code.<br><br>⚡ Fun fact<br><br>I genuinely enjoy teaching others — breaking down complex topics into simple, fun explanations.
+Hey! I’m a MERN stack developer who enjoys building management systems and clean, functional UI components. Lately, I’m diving deeper into full-stack system design and backend architecture. I love teaching and simplifying tech for others, and I’m always open to collaborating on cool full-stack or UI-heavy projects.
 
 
 ## 🌐 Socials:
